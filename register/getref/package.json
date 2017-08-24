@@ -1,0 +1,13 @@
+{
+  "name": "getref",
+  "version": "0.1.0",
+  "description": "get catalyst ref link",
+  "main": "index.js",
+  "repository": "https://github.com/Akagi201/seckill",
+  "author": "akagi201@gmail.com (http://akagi201.org/)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^0.9.0",
+    "yargs": "^8.0.2"
+  }
+}
